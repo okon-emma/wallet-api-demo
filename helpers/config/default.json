@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:@Localhost81@db.qkjox.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "bartersecret": "SEC1487"
+}
